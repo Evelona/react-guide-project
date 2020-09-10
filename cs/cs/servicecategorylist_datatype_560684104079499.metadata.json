@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"cs.servicecategorylist_datatype_560684104079499"}],"uuid":"ff882ddfce3d47b3be1e7505ce9c10eb"}

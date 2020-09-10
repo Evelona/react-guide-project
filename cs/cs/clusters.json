@@ -1,0 +1,225 @@
+{
+	"_id": {
+		"$oid": "5ef313c837e5416b88d11af8"
+	},
+	"labeled": false,
+	"open": true,
+	"apps": [
+		{
+			"$oid": "5ef313c837e5416b88d11b0a"
+		}
+	],
+	"type": {
+		"$oid": "5ef313bf37e5416b88d11ad5"
+	},
+	"index": {
+		"$numberInt": "1"
+	},
+	"token": "Cluster_560693083384900",
+	"__v": {
+		"$numberInt": "1"
+	},
+	"data": {
+		"$oid": "5ef313c837e5416b88d11af9"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef313c837e5416b88d11afa"
+	},
+	"labeled": false,
+	"open": true,
+	"apps": [
+		{
+			"$oid": "5ef313c837e5416b88d11b0a"
+		}
+	],
+	"type": {
+		"$oid": "5ef313bf37e5416b88d11ad5"
+	},
+	"index": {
+		"$numberInt": "2"
+	},
+	"token": "Cluster_560693089876899",
+	"__v": {
+		"$numberInt": "1"
+	},
+	"data": {
+		"$oid": "5ef313c837e5416b88d11afb"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef313c837e5416b88d11afc"
+	},
+	"labeled": false,
+	"open": true,
+	"apps": [
+		{
+			"$oid": "5ef313c837e5416b88d11b0a"
+		}
+	],
+	"type": {
+		"$oid": "5ef313bf37e5416b88d11ad5"
+	},
+	"index": {
+		"$numberInt": "3"
+	},
+	"token": "Cluster_560693095423399",
+	"__v": {
+		"$numberInt": "1"
+	},
+	"data": {
+		"$oid": "5ef313c837e5416b88d11afd"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef313c837e5416b88d11afe"
+	},
+	"labeled": false,
+	"open": true,
+	"apps": [
+		{
+			"$oid": "5ef313c837e5416b88d11b0a"
+		}
+	],
+	"type": {
+		"$oid": "5ef313bf37e5416b88d11adb"
+	},
+	"index": {
+		"$numberInt": "4"
+	},
+	"token": "Cluster_560693099571200",
+	"__v": {
+		"$numberInt": "1"
+	},
+	"data": {
+		"$oid": "5ef313c837e5416b88d11aff"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef313c837e5416b88d11b00"
+	},
+	"labeled": false,
+	"open": true,
+	"apps": [
+		{
+			"$oid": "5ef313c837e5416b88d11b0a"
+		}
+	],
+	"type": {
+		"$oid": "5ef313bf37e5416b88d11adb"
+	},
+	"index": {
+		"$numberInt": "5"
+	},
+	"token": "Cluster_560693104314400",
+	"__v": {
+		"$numberInt": "1"
+	},
+	"data": {
+		"$oid": "5ef313c837e5416b88d11b01"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef313c837e5416b88d11b02"
+	},
+	"labeled": false,
+	"open": true,
+	"apps": [
+		{
+			"$oid": "5ef313c837e5416b88d11b0a"
+		}
+	],
+	"type": {
+		"$oid": "5ef313bf37e5416b88d11adb"
+	},
+	"index": {
+		"$numberInt": "6"
+	},
+	"token": "Cluster_560693110483699",
+	"__v": {
+		"$numberInt": "1"
+	},
+	"data": {
+		"$oid": "5ef313c837e5416b88d11b03"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef313c837e5416b88d11b04"
+	},
+	"labeled": false,
+	"open": true,
+	"apps": [
+		{
+			"$oid": "5ef313c837e5416b88d11b0a"
+		}
+	],
+	"type": {
+		"$oid": "5ef313bf37e5416b88d11adb"
+	},
+	"index": {
+		"$numberInt": "7"
+	},
+	"token": "Cluster_560693115209699",
+	"__v": {
+		"$numberInt": "1"
+	},
+	"data": {
+		"$oid": "5ef313c837e5416b88d11b05"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef313c837e5416b88d11b06"
+	},
+	"labeled": false,
+	"open": true,
+	"apps": [
+		{
+			"$oid": "5ef313c837e5416b88d11b0a"
+		}
+	],
+	"type": {
+		"$oid": "5ef313bf37e5416b88d11adb"
+	},
+	"index": {
+		"$numberInt": "8"
+	},
+	"token": "Cluster_560693119065400",
+	"__v": {
+		"$numberInt": "1"
+	},
+	"data": {
+		"$oid": "5ef313c837e5416b88d11b07"
+	}
+}
+{
+	"_id": {
+		"$oid": "5ef313c837e5416b88d11b08"
+	},
+	"labeled": false,
+	"open": true,
+	"apps": [
+		{
+			"$oid": "5ef313c837e5416b88d11b0a"
+		}
+	],
+	"type": {
+		"$oid": "5ef313bf37e5416b88d11adb"
+	},
+	"index": {
+		"$numberInt": "9"
+	},
+	"token": "Cluster_560693123546300",
+	"__v": {
+		"$numberInt": "1"
+	},
+	"data": {
+		"$oid": "5ef313c837e5416b88d11b09"
+	}
+}
